@@ -1,0 +1,139 @@
+body{
+	background-color: #F0ECE3;
+	font-family: 'Montserrat', sans-serif;
+	margin: 0;
+}
+.lins{
+	text-decoration: none;
+	color: #F0ECE3;
+}
+.lins:hover{
+	color: #A3E4DB;
+}
+.header{
+	background-color: #041C32;
+	margin: 0;
+	margin-bottom: 50px;
+	
+}
+.top{
+	background-color: #041C32;
+	height: 400px;
+	width: 80%;
+	margin: 10px;
+	border-radius: 25px;
+	position: relative;
+}
+.img-inter{
+	width: 500px;
+	height: 350px;
+	position: absolute;
+	right: 20px;
+	top: 20px;
+	
+}
+.iot-de{
+	text-align: left;
+	position: absolute;
+	top: 5px;
+	left: 20px;
+	color: #F0ECE3;
+}
+.iot-des{
+	text-align: left;
+	position: absolute;
+	top: 60px;
+	left: 20px;
+	color: #F0ECE3;
+}
+.middle{
+	background-color: #F0ECE3;
+	height: 350px;
+}
+hr{
+	border-top-style: dotted;
+	border-top-width: 5px;
+	border-top-color: #041C32;
+	width: 5%;
+	margin: 30px auto;
+}
+.mission{
+	position: absolute;
+	left: 20px;
+	top: 20px;
+	width: 100px;
+	hegith: 100px;
+}
+.vision{
+	position: absolute;
+	left: 20px;
+	top: 20px;
+	width: 100px;
+	hegith: 100px;
+}
+.middle-one{
+	position: absolute;
+	left: 40px;
+	background-color: #041C32;
+	width: 600px;
+	height: 250px;
+	border-radius: 25px;
+}
+.middle-two{
+	position: absolute;
+	right: 40px;
+	background-color: #041C32;
+	width: 600px;
+	height: 250px;
+	border-radius: 25px;
+}
+.vision-head{
+	color: #F0ECE3;
+	position: absolute;
+	left: 150px;
+}
+.vision-text{
+	color: #F0ECE3;
+	position: absolute;
+	left: 150px;
+	top: 50px;
+}
+.mission-head{
+	color: #F0ECE3;
+	position: absolute;
+	left: 150px;
+}
+.mission-text{
+	color: #F0ECE3;
+	position: absolute;
+	left: 110px;
+	top: 50px;
+}
+.bottom-one{
+	position: relative;
+	background-color: #041C32;
+	height: 200px;
+	width: 80%;
+	margin: 10px;
+	border-radius: 25px;
+}
+.obj{
+	position: absolute;
+	right: 30px;
+	top: 8px;
+}
+.obj-test{
+	position: absolute;
+	text-align: left;
+	color: #F0ECE3;
+}
+.footer{
+	background-color: #041C32;
+	height: 50px;
+	margin-top: 50px;
+}
+.footer-text{
+	padding-top: 15px;
+	margin-left: 10px;
+	color: #F0ECE3;
+}
